@@ -7,7 +7,7 @@ public class Lab3Exercises {
          myFrame.getContentPane().add(myPanel);
 		//myFrame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 //		myFrame.setLocation(200, 200);
-		myFrame.setSize(200, 200);
+		myFrame.setSize(300, 200);
 		myFrame.setLocationRelativeTo(null);
 		myFrame.setVisible(true);
 	}
